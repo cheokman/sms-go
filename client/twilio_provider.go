@@ -1,7 +1,7 @@
 package client
 
 import (
-	"sms-go/config"
+	"github.com/cheokman/sms-go/config"
 
 	"github.com/twilio/twilio-go"
 	openapi "github.com/twilio/twilio-go/rest/api/v2010"

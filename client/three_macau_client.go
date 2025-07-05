@@ -8,8 +8,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"sms-go/config"
-	"sms-go/models"
+	"github.com/cheokman/sms-go/config"
+	"github.com/cheokman/sms-go/models"
 )
 
 // Client holds API config + HTTP client

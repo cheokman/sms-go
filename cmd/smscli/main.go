@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"sms-go/client"
-	"sms-go/config"
+	"github.com/cheokman/sms-go/client"
+	"github.com/cheokman/sms-go/config"
 )
 
 func main() {

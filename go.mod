@@ -1,4 +1,4 @@
-module sms-go
+module github.com/cheokman/sms-go
 
 go 1.23.2
 

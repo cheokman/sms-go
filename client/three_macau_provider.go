@@ -1,7 +1,7 @@
 package client
 
 import (
-	"sms-go/config"
+	"github.com/cheokman/sms-go/config"
 )
 
 // ThreeMOProvider wraps the existing 3MO client.Client

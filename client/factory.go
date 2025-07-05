@@ -3,7 +3,7 @@ package client
 import (
 	"fmt"
 
-	"sms-go/config"
+	"github.com/cheokman/sms-go/config"
 )
 
 // NewProvider returns the SMSProvider based on config.Platform
